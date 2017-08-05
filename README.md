@@ -9,6 +9,7 @@ My homebrew webdev resource page. This is a purely personal resource repository,
 
 ### Git
 * [Git @CodeAcademy](https://www.codecademy.com/learn/learn-git)
+* [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
 ### ???
 
